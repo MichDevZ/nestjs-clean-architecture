@@ -35,6 +35,12 @@ npm run test
 ```
 
 
-### Para visualizar documentación en swagger ir a localhost:3000/api
+### Visualización de Documentación y Datos
+
+- **Swagger API Docs**  
+  [`http://localhost:3000/api`](http://localhost:3000/api)
+
+- **Firestore Emulator - Documentos**  
+  [`http://127.0.0.1:4000/firestore/`](http://127.0.0.1:4000/firestore/)
 
 

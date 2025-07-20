@@ -10,7 +10,7 @@ export class CreateUserDto {
   @IsEmail({}, { message: 'Invalid email format' })
   email: string;
 
-  @ApiProperty({ example: 'secret123', required: false })
+  @ApiProperty({ example: 'secret123 (If password is not provided, a secure password will be generated automatically)', required: false })
   @IsOptional()
   @MinLength(6, { message: 'Password must be at least 6 characters' })
   password?: string;
