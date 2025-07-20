@@ -20,7 +20,7 @@ npm install
   FIRESTORE_EMULATOR_HOST=localhost:8080
 ```
 
-### 4. Ejecutar el emulador de firebase (Es necesario instalar java para correr emulador) (si estás en la terminal de visual studio code y no funciona, puedes abrir una terminal en la carpeta del proyecto y ejecutar desde ah;i)
+### 4. Ejecutar el emulador de firebase (Es necesario instalar java para correr emulador) (si estás en la terminal de visual studio code y no funciona, puedes abrir una terminal en la carpeta del proyecto y ejecutar desde ahí)
 ```bash
 firebase emulators:start.
 ```
