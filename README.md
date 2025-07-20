@@ -1,6 +1,6 @@
-# 🛒 Nest js + Clean Architecture
+# Nest js + Clean Architecture
 
-## 📦 Instalación
+## Instalación
 
 ### 1. Clonar el repositorio
 
